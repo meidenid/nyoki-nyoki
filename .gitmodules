@@ -1,0 +1,6 @@
+[submodule "nyokinyoki"]
+	path = nyokinyoki
+	url = git@github.com:daisyo/nyokinyoki.git
+[submodule "nyoki-nyoki-client"]
+	path = nyoki-nyoki-client
+	url = git@github.com:haseaki0503/nyoki-nyoki-client.git
